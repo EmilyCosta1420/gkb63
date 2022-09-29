@@ -5,8 +5,8 @@
 ---
 <div align="center">
   <a href="https://github.com/gkb63">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gkb63&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkb63&hide=javascript,css,scss,html&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gkb63&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkb63&hide=javascript,css,scss,html&theme=algolia"/>
 </div>
   
 <div align="center">
